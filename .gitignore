@@ -1,0 +1,77 @@
+# ===============================
+# 🐍 Python Cache Files
+# ===============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ===============================
+# 🔐 Environment Variables (IMPORTANT)
+# ===============================
+.env
+
+# ===============================
+# 🧪 Test & Cache
+# ===============================
+.pytest_cache/
+.coverage
+
+# ===============================
+# 🧠 Streamlit Cache
+# ===============================
+.streamlit/
+
+# ===============================
+# 💻 Virtual Environments
+# ===============================
+venv/
+.venv/
+
+# ===============================
+# 🧾 Logs & Temporary Files
+# ===============================
+*.log
+
+# ===============================
+# 🖥️ VS Code / Editor Files
+# ===============================
+.vscode/
+
+# ===============================
+# 🍎 OS Files
+# ===============================
+.DS_Store
+Thumbs.db
+
+# ===============================
+# 📓 Jupyter Notebooks
+# ===============================
+.ipynb_checkpoints/
+
+# ===============================
+# 📊 DATA FILES (IMPORTANT DECISION)
+# ===============================
+
+# ❗ For Hackathon (RECOMMENDED):
+# Keep datasets so judges can run easily
+# 👉 DO NOT IGNORE data/
+
+# data/raw_data/
+# data/processed/
+
+# ❗ For Production (OPTIONAL):
+# Uncomment below to ignore datasets
+# data/
+
+# ===============================
+# 📦 Large Files (Optional)
+# ===============================
+# *.csv
+
+# ===============================
+# 🔑 API / Secret Backup Files
+# ===============================
+*.env.backup
+*.key
+*.pem
