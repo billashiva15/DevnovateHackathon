@@ -22,9 +22,10 @@
 ## 📸 Screenshots
 
 ### DealMind AI — Main Dashboard
-> Client selector → Enter a message → Get AI-powered deal intelligence instantly
 
 ![DealMind AI Dashboard](docs/screenshots/dashboard.png)
+> Client selector → Enter a message → Get AI-powered deal intelligence instantly
+
 > *Three-panel layout: Client selector (left), Interaction + AI suggestion (center), Client brief + Memory (right)*
 
 ---
