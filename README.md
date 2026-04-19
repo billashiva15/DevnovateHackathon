@@ -49,7 +49,7 @@ Third interaction:   [Growing memory] → AI knows objections, preferences, hist
 
 
 ### work flow of Hindsight
-
+![Work Flow of Handsight].(https://github.com/billashiva15/DevnovateHackathon/blob/main/Screenshot%202026-04-19%20060157.png)
 
 ### 🔑 Groq + Hindsight API Keys — `.env` Setup
 
