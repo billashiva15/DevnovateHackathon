@@ -46,6 +46,11 @@ Third interaction:   [Growing memory] → AI knows objections, preferences, hist
 
 ---
 
+
+
+### work flow of Hindsight
+
+
 ### 🔑 Groq + Hindsight API Keys — `.env` Setup
 
 ![API Keys Setup](docs/screenshots/api_keys_env.png)
