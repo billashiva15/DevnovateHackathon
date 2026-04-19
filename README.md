@@ -47,11 +47,11 @@ Third interaction:   [Growing memory] → AI knows objections, preferences, hist
 ---
 
 # Architecture of Project 
-![Architecture].(https://github.com/billashiva15/DevnovateHackathon/blob/main/dealmind_ai_architecture.svg)
+![Architecture](https://raw.githubusercontent.com/billashiva15/DevnovateHackathon/main/dealmind_ai_architecture.svg)
 
 ### work flow of Hindsight
 
-![WorkFlow of Handsight].(https://github.com/billashiva15/DevnovateHackathon/blob/main/Screenshot%202026-04-19%20060157.png)
+![WorkFlow of Handsight](https://github.com/billashiva15/DevnovateHackathon/blob/main/Screenshot%202026-04-19%20060157.png)
 
 ### 🔑 Groq + Hindsight API Keys — `.env` Setup
 
