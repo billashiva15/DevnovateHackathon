@@ -211,7 +211,7 @@ reply = generate_sales_reply(client_message, deal_context)
 │                      DealMind AI                         │
 ├──────────────┬──────────────────────┬───────────────────┤
 │  Frontend    │      Backend         │   Data Layer       │
-│  (HTML/JS)   │     (FastAPI)        │   (CSV + Memory)   │
+│  (streamlit)   │     (FastAPI)        │   (CSV + Memory)   │
 │              │                      │                    │
 │  Client      │  ┌─────────────┐    │  deals_master.csv  │
 │  Selector    │  │ Objection   │    │  accounts.csv      │
@@ -393,16 +393,17 @@ httpx==0.27.0
 
 ## 🏆 Hackathon
 
-Built for the **Devnovate Hackathon 2025** using:
+Built for the **Devnovate Hackathon 2026** using:
 - **CascadeFlow** — agentic pipeline orchestration
 - **Hindsight** — persistent memory layer
 - **Groq** — high-speed LLM inference
 
 ---
 
-## 👨‍💻 Author
-
+## 👥 Team : TECH WARRIORS 
 **Billa Shiva**
+
+
 - GitHub: [@billashiva15](https://github.com/billashiva15)
 
 ---
