@@ -2,7 +2,7 @@
 
 # 🧠 DealMind AI
 ### Memory-Powered Sales Intelligence Agent
-![DASHBOARD ].(https://github.com/billashiva15/DevnovateHackathon/blob/main/Screenshot%202026-04-19%20042647.png)
+
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![Groq](https://img.shields.io/badge/Groq-qwen3--32b-F55036?style=for-the-badge&logo=groq&logoColor=white)](https://groq.com)
