@@ -33,7 +33,7 @@
 ### 🧠 Hindsight Memory — Persistent Client Memory
 > Hindsight stores and recalls every past interaction per client. The agent remembers what was said before — turning a stateless LLM into a relationship-aware assistant.
 
-![Hindsight Memory Panel]([docs/screenshots/hindsight_memory.png](https://github.com/billashiva15/DevnovateHackathon/blob/main/Screenshot%202026-04-19%20042743.png))
+![Hindsight Memory Panel](https://github.com/billashiva15/DevnovateHackathon/blob/main/Screenshot%202026-04-19%20042743.png)
 > *The "Client Memory" panel on the right grows over time as interactions are saved. On the next conversation with the same client, past context is automatically recalled.*
 
 **How Hindsight memory works in DealMind:**
