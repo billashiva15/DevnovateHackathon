@@ -207,6 +207,7 @@ reply = generate_sales_reply(client_message, deal_context)
 
 ## 🧠 Architecture
 
+![DealMind AI]()
 ```
 ┌─────────────────────────────────────────────────────────┐
 │                      DealMind AI                         │
