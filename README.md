@@ -110,6 +110,7 @@ HINDSIGHT_API_KEY = os.getenv("HINDSIGHT_API_KEY")
 
 DealMind uses **Groq's ultra-fast inference** with the `qwen3-32b` model for generating context-aware sales responses.
 
+![Groq Api key](https://github.com/billashiva15/DevnovateHackathon/blob/main/Screenshot%202026-04-19%20071140.png)
 ### Why `qwen3-32b`?
 
 | Feature | Detail |
