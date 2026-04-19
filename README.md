@@ -1,5 +1,5 @@
 <div align="center">
-
+    
 # 🧠 DealMind AI
 ### Memory-Powered Sales Intelligence Agent
 
@@ -46,7 +46,8 @@ Third interaction:   [Growing memory] → AI knows objections, preferences, hist
 
 ---
 
-
+# Architecture of Project 
+![Architecture].()
 
 ### work flow of Hindsight
 
