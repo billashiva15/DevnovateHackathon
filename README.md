@@ -37,7 +37,7 @@
 
 ![Hindsight Memory WorldFacts](https://github.com/billashiva15/DevnovateHackathon/blob/main/Screenshot%202026-04-19%20072000.png)
 
-![Hindsight Memory EXperiences]()
+![Hindsight Memory EXperiences](https://github.com/billashiva15/DevnovateHackathon/blob/main/Screenshot%202026-04-19%20072024.png)
 
 ![Hindsight Memory Observations]()
 > *The "Client Memory" panel on the right grows over time as interactions are saved. On the next conversation with the same client, past context is automatically recalled.*
