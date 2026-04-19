@@ -22,7 +22,7 @@
 ## 📸 Screenshots
 
 ### DealMind AI — Main Dashboard
-
+![DealMind AI].(https://github.com/billashiva15/DevnovateHackathon/blob/main/Screenshot%202026-04-19%20042647.png)
 ![DealMind AI Dashboard](docs/screenshots/dashboard.png)
 > Client selector → Enter a message → Get AI-powered deal intelligence instantly
 
