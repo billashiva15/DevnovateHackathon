@@ -19,7 +19,7 @@
 ![Demoexplanation](https://drive.google.com/file/d/1Zl6Qp1ePI-LQmCi3h-onLbhCHboDANCg/view?usp=drive_link)
 ---
 
-## 📸 Screenshots
+## 📸 Projects pics
 
 ### DealMind AI — Main Dashboard
 
@@ -384,6 +384,9 @@ Built for the **Devnovate Hackathon 2026** using:
 
 ## 👥 Team : TECH WARRIORS 
 **Billa Shiva**
+**G Vishnu vardhan reddy**
+**p.Gopi madhav**
+**k.Sai Ganesh**
 
 
 - GitHub: [@billashiva15](https://github.com/billashiva15)
