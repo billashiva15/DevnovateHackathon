@@ -47,7 +47,7 @@ Third interaction:   [Growing memory] → AI knows objections, preferences, hist
 ---
 
 # Architecture of Project 
-![Architecture].()
+![Architecture].(https://github.com/billashiva15/DevnovateHackathon/blob/main/dealmind_ai_architecture.svg)
 
 ### work flow of Hindsight
 
